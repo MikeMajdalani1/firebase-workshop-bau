@@ -1,4 +1,4 @@
-# Firebase Workshop
+# Firebase Workshop - BAU
 
 ## Prerequisites
 
@@ -9,23 +9,23 @@
 
 To get started with this project, follow these steps:
 
-- Clone this repo: git clone https://github.com/MikeMajdalani1/firebase-workshop-bau.git
-- cd firebasedevrabic_bau
+- Clone this repo: `git clone https://github.com/MikeMajdalani1/firebase-workshop-bau.git`
+- Navigate to the project directory: `cd firebase-workshop-bau`
 - Open the project in Visual Studio Code
-- Run `npm install` in your terminal to install dependancies
+- Run `npm install` in your terminal to install dependencies
 
 ## Branches
 
-- The Main branch will include the authentication integration post workshop (clone this branch to do the challenge)
-- The Blank branch will include the main UI without the authentication integration
+- The **Main** branch will include the authentication integration post-workshop (clone this branch to do the challenge).
+- The **Blank** branch will include the main UI without the authentication integration.
 
 ## Challenge
 
-- Main Objective: Integrate Google Registration
-- Side Objective: Add loading state while registrating and logging
-- Side Objective: Handle the erros on the UI instead of alerting them in the browser
+- **Main Objective:** Integrate Google Registration
+- **Side Objective:** Add a loading state while registering and logging in
+- **Side Objective:** Handle errors on the UI instead of alerting them in the browser
 
-The winner will receive a free access to the full Devrabic web development course.
+The winner will receive free access to the full [Devrabic](https://devrabic.com) web development course.
 
 To apply, fill out [this form](https://forms.gle/VtK7WGAXBVCjKLXJ7).
 
